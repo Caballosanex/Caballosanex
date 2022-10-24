@@ -13,6 +13,10 @@
 
 ◦ [42cursus progress](https://github.com/Caballosanex/42Cursus-Commented)
 
+## My Notion (With Resources for your stay on 42)
+
+![Notion](https://caballosanex.notion.site/Road-to-42-1c4ff3c3000f44c89c47ecb2be89e372)(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png)
+
 ## Github stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Caballosanex)
