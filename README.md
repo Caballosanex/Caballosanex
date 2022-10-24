@@ -25,7 +25,7 @@ Look here *[My Notion](https://www.notion.so/caballosanex/Road-to-42-1c4ff3c3000
 
 ![Caballosanex's github stats](https://github-readme-stats.vercel.app/api?username=Caballosanex&show_icons=true&hide_border=true&theme=dark)
 
-## Contact me
+## Reach me out!
 
 * Email:      alexsanc@student.42barcelona.com
 * Twitter:    https://twitter.com/Caballosanex
