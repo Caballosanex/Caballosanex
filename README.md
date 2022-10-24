@@ -15,7 +15,7 @@
 
 ## My Notion (With Resources for your stay on 42)
 
-![Notion](https://caballosanex.notion.site/Road-to-42-1c4ff3c3000f44c89c47ecb2be89e372)
+My Notion ![Notion](https://caballosanex.notion.site/Road-to-42-1c4ff3c3000f44c89c47ecb2be89e372)
 
 ## Github stats
 
