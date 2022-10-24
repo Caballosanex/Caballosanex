@@ -1,11 +1,11 @@
 ### Hello everyone! 
 
 ## At this moment
-### I'm a student at [42 Barcelona](https://www.42barcelona.com/es/)\
+### I'm a student at [42 Barcelona](https://www.42barcelona.com/es/)
 
 [![alexsanc's 42 stats](https://badge42.vercel.app/api/v2/cl9gy7in200690gmidkgosw2j/stats?cursusId=21&coalitionId=205)](https://github.com/JaeSeoKim/badge42)
 
-### Since my promotion (July 2022) i've done
+## Since my promotion (July 2022) i've done:
 Born2beroot Score [![alexsanc's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl9gy7in200690gmidkgosw2j/project/2832425)](https://github.com/JaeSeoKim/badge42)\
 Libft Score [![alexsanc's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9gy7in200690gmidkgosw2j/project/2785073)](https://github.com/JaeSeoKim/badge42)\
 ft_printf Score [![alexsanc's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9gy7in200690gmidkgosw2j/project/2844358)](https://github.com/JaeSeoKim/badge42)
