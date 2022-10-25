@@ -12,6 +12,7 @@ ft_printf Score [![alexsanc's 42 ft_printf Score](https://badge42.vercel.app/api
 ## My 42cursus repository
 
 ◦ [42cursus - Commented](https://github.com/Caballosanex/42Cursus-Commented)
+[![CodeFactor](https://www.codefactor.io/repository/github/caballosanex/42cursus-commented/badge)](https://www.codefactor.io/repository/github/caballosanex/42cursus-commented)
 
 ## My Notion (With Resources for your stay on 42)
 
