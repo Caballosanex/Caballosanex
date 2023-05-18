@@ -9,10 +9,16 @@ Born2beroot Score [![alexsanc's 42 Born2beroot Score](https://badge42.vercel.app
 Libft Score [![alexsanc's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9gy7in200690gmidkgosw2j/project/2785073)](https://github.com/JaeSeoKim/badge42)\
 ft_printf Score [![alexsanc's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9gy7in200690gmidkgosw2j/project/2844358)](https://github.com/JaeSeoKim/badge42)
 
-## My 42cursus repository
+## My TOP repos
 
 ◦ [42cursus - Commented](https://github.com/Caballosanex/42Cursus-Commented)\
 [![CodeFactor](https://www.codefactor.io/repository/github/caballosanex/42cursus-commented/badge)](https://www.codefactor.io/repository/github/caballosanex/42cursus-commented)
+
+◦ [42CyberSec](https://github.com/Caballosanex/42Cybersec)\
+[![CodeFactor](https://www.codefactor.io/repository/github/caballosanex/42cybersec/badge)](https://www.codefactor.io/repository/github/caballosanex/42cybersec)
+
+◦ [Scripts](https://github.com/Caballosanex/Scripts)\
+[![CodeFactor](https://www.codefactor.io/repository/github/caballosanex/scripts/badge)](https://www.codefactor.io/repository/github/caballosanex/scripts)
 
 ## My Notion (With Resources for your stay on 42)
 
