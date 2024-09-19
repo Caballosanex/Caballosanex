@@ -2,11 +2,6 @@
 
 ### I'm a student at [iTICBcn](https://agora.xtec.cat/iticbcn/)
 
-## Since my promotion (July 2022) i've done:
-Born2beroot Score [![alexsanc's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl9gy7in200690gmidkgosw2j/project/2832425)](https://github.com/JaeSeoKim/badge42)\
-Libft Score [![alexsanc's 42 Libft Score](https://badge42.vercel.app/api/v2/cl9gy7in200690gmidkgosw2j/project/2785073)](https://github.com/JaeSeoKim/badge42)\
-ft_printf Score [![alexsanc's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl9gy7in200690gmidkgosw2j/project/2844358)](https://github.com/JaeSeoKim/badge42)
-
 ## My TOP repos
 
 ◦ [42cursus - Commented](https://github.com/Caballosanex/42Cursus-Commented)\
@@ -31,5 +26,5 @@ Look here *[My Notion](https://www.notion.so/caballosanex/Road-to-42-1c4ff3c3000
 
 ## Reach me out!
 
-* Email:      alexsanc@student.42barcelona.com
+* Email:      2024_alex.sanchez@iticbcn.cat
 * Twitter:    https://twitter.com/Caballosanex
