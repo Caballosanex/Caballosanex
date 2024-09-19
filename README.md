@@ -17,7 +17,7 @@ ft_printf Score [![alexsanc's 42 ft_printf Score](https://badge42.vercel.app/api
 ◦ [42CyberSec](https://github.com/Caballosanex/42Cybersec)\
 [![CodeFactor](https://www.codefactor.io/repository/github/caballosanex/42cybersec/badge)](https://www.codefactor.io/repository/github/caballosanex/42cybersec)
 
-◦ [Scripts](https://github.com/Caballosanex/Scripts)\
+◦ [Scripts](https://github.com/Caballosanex/iTICBcn/tree/main/Scripts)\
 [![CodeFactor](https://www.codefactor.io/repository/github/caballosanex/scripts/badge)](https://www.codefactor.io/repository/github/caballosanex/scripts)
 
 ## My Notion (With Resources for your stay on 42)
