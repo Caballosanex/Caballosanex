@@ -1,8 +1,6 @@
 ### Welcome to my GitHub! 
 
-### I'm a student at [42 Barcelona](https://www.42barcelona.com/es/)
-
-[![alexsanc's 42 stats](https://badge42.vercel.app/api/v2/cl9gy7in200690gmidkgosw2j/stats?cursusId=21&coalitionId=205)](https://github.com/JaeSeoKim/badge42)
+### I'm a student at [iTICBcn](https://agora.xtec.cat/iticbcn/)
 
 ## Since my promotion (July 2022) i've done:
 Born2beroot Score [![alexsanc's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl9gy7in200690gmidkgosw2j/project/2832425)](https://github.com/JaeSeoKim/badge42)\
@@ -18,8 +16,7 @@ ft_printf Score [![alexsanc's 42 ft_printf Score](https://badge42.vercel.app/api
 [![CodeFactor](https://www.codefactor.io/repository/github/caballosanex/42cybersec/badge)](https://www.codefactor.io/repository/github/caballosanex/42cybersec)
 
 ◦ [Scripts](https://github.com/Caballosanex/iTICBcn/tree/main/Scripts)\
-[![CodeFactor](https://www.codefactor.io/repository/github/caballosanex/scripts/badge)](https://www.codefactor.io/repository/github/caballosanex/scripts)
-
+[![CodeFactor](https://www.codefactor.io/repository/github/caballosanex/iticbcn/badge)](https://www.codefactor.io/repository/github/caballosanex/iticbcn)
 ## My Notion (With Resources for your stay on 42)
 
 Look here *[My Notion](https://www.notion.so/caballosanex/Road-to-42-1c4ff3c3000f44c89c47ecb2be89e372)*.
