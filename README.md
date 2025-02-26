@@ -12,9 +12,6 @@
 
 ◦ [Scripts](https://github.com/Caballosanex/iTICBcn/tree/main/Scripts)\
 [![CodeFactor](https://www.codefactor.io/repository/github/caballosanex/iticbcn/badge)](https://www.codefactor.io/repository/github/caballosanex/iticbcn)
-## My Notion (With Resources for your stay on 42)
-
-Look here *[My Notion](https://www.notion.so/caballosanex/Road-to-42-1c4ff3c3000f44c89c47ecb2be89e372)*.
 
 ## Github stats
 
