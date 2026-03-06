@@ -16,6 +16,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [PortfolioCloudAWS](https://github.com/Caballosanex/PortfolioCloudAWS) | My portfolio's infrastructure — IaC, Ansible automation, and live demos on AWS | Terraform · Ansible · Docker · Nginx · AWS |
 | [CatLink](https://github.com/Caballosanex/CatLink) | AI agent managing EV charger networks — Nokia Open Gateway Hackathon Barcelona 2026 | FastAPI · React · Gemini · Docker |
 | [SERP](https://github.com/Caballosanex/SERP) | Emergency response system with real-time GPS tracking — Talent Arena Hackathon 2025 | FastAPI · React · PostgreSQL · Docker |
 | [42Cursus-Commented](https://github.com/Caballosanex/42Cursus-Commented) | Annotated 42 School curriculum — C projects with detailed explanations | C |
@@ -23,14 +24,6 @@
 | [Apartaments Miquel](https://apartamentsjmiquel.com) | Tourist apartment website — delivered and in production for a real client | HTML · CSS · JS |
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caballosanex&show_icons=true&hide_border=true&theme=dark" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caballosanex&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Caballosanex&color=blue" alt="Profile views" />
