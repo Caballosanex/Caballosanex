@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Alex Sánchez 👋</h1>
+<h1 align="center">The name's Alex!</h1>
 
 <p align="center">
   Sysadmin &amp; developer finishing ASIX at <a href="https://agora.xtec.cat/iticbcn/">iTICBcn</a> · Based in Barcelona
